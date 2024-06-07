@@ -1,0 +1,85 @@
+.p2 {color: aqua;
+text-align: center;
+background-color: burlywood;
+border-color: black;
+border-width: 10px;
+border-style: double;
+margin-left: 30%;
+margin-right: 30%;
+padding-left: 0%;
+margin-top: 5%;
+}
+
+.p1 {color: aqua;
+text-align: center;
+background-color: burlywood;
+border-color: black;
+border-width: 10px;
+border-style: double;
+margin-left: 30%;
+margin-right: 30%;
+padding-left: 0%;
+margin-top: 5%;
+}
+
+
+.p3 {color: chartreuse;
+text-align: center;
+background-color: aqua ;
+border-color: cadetblue;
+border-width: 5px;
+border-style: outset;
+margin-left: 30%;
+margin-right: 30%;
+padding-left: 0;
+margin-top: 5%;
+}
+
+.p4 {color: crimson;
+text-align: left;
+background-color: cyan;
+border-color: darkorchid;
+border-width: 3px;
+border-style: ridge;
+margin-left: 40%;
+}
+
+.p5 {color: crimson;
+    text-align: right;
+    background-color: cyan;
+    border-color: darkorchid;
+    border-width: 3px;
+    border-style: ridge;
+    margin-right: 40%;
+    }
+
+    .p6 {color:darkgreen;
+        text-align: center;
+        background-color:bisque ;
+        border-color:deeppink;
+        border-width: 5px;
+        border-style:inherit;
+        margin-left: 30%;
+        margin-right: 30%;
+        padding-left: 0;
+        margin-top: 10%;
+        }
+
+        .p7 {color:coral;
+            text-align: right;
+            background-color:blueviolet;
+            border-color:lightgreen;
+            border-width: 3px;
+            border-style:unset;
+            margin-left: 50%;
+        }
+
+        .p8 {color:coral;
+text-align: left;
+            
+            background-color: blueviolet;
+            border-color: lightgreen;
+            border-width: 3px;
+            border-style: unset;
+            margin-right: 50%;
+        }
